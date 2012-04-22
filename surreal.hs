@@ -10,6 +10,10 @@ data Surreal  = Nil
                         , right :: Surreal
                         } deriving (Show, Eq)
 
+--data Surreal2 = Surreal2 { left  :: Set.Set Surreal
+--                          , right :: Set.Set Surreal
+--                          } deriving (Show, Eq)
+
 -- make things easier...
 nil = Nil
 

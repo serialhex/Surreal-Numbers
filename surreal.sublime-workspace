@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Surre",
+				"Surreal"
+			],
+			[
+				"Surreal",
+				"SurrealSet"
+			],
+			[
+				"Sur",
+				"Surreal"
+			],
+			[
+				"Sure",
+				"SurrealSet"
+			],
+			[
+				"from",
+				"fromList"
+			],
+			[
+				"S",
+				"SurrealSet"
+			],
+			[
+				"in",
+				"intersperse"
+			],
+			[
+				"num",
+				"numElms"
+			],
+			[
+				"No",
+				"Nothing"
+			],
+			[
+				"May",
+				"MaybeTree"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "surreal.hs",
+			"settings":
+			{
+				"buffer_size": 1223,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notes.md",
+			"settings":
+			{
+				"buffer_size": 1450,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/serialhex/.config/sublime-text-2/Packages/User/Haskell.sublime-settings",
+		"/home/serialhex/src/rwh/ch03/Exercises.hs",
+		"/home/serialhex/src/rwh/ch03/MySecond.hs",
+		"/home/serialhex/src/rwh/ch03/Tree.hs",
+		"/home/serialhex/src/rwh/ch03/Lending.hs",
+		"/home/serialhex/src/rwh/ch03/AlgebraicVector.hs",
+		"/home/serialhex/src/rwh/ch03/BookStore.hs",
+		"/home/serialhex/src/rwh/ch03/ShapeUnion.hs",
+		"/home/serialhex/src/rwh/ch03/ListADT.hs",
+		"/home/serialhex/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/serialhex/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/serialhex/Documents/work/active health therapy/thing.xml",
+		"/home/serialhex/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/serialhex/src/rwh/ch03/Nullable.hs",
+		"/home/serialhex/src/rwh/ch03/BadPattern.hs",
+		"/home/serialhex/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
+		"/home/serialhex/src/rwh/ch01/WC.hs",
+		"/home/serialhex/src/rwh/ch01/quux.txt",
+		"/media/3236-3533/jruby/call.rb",
+		"/home/serialhex/src/cop2000/11-11-10/vectors.cpp",
+		"/home/serialhex/src/cop2000/11-11-10/array.cpp",
+		"/home/serialhex/src/cop2000/11-11-10/pointers.cpp\\",
+		"/home/serialhex/src/cop2000/scaffolding.cpp",
+		"/home/serialhex/src/cop2000/11-11-03/array.cpp",
+		"/home/serialhex/src/cop2000/assignment_8/a8.txt",
+		"/home/serialhex/src/cop2000/assignment_8/A8_Data Tracing Chart and Test Softcopy.txt",
+		"/home/serialhex/src/cop2000/assignment_2/a2.cpp",
+		"/home/serialhex/src/cop2000/11-11-03/notes.md",
+		"/home/serialhex/src/cop2000/assignment_7/a7.cpp",
+		"/home/serialhex/src/cop2000/assignment_8/a7.txt",
+		"/home/serialhex/src/99_bottles/cpp.cpp",
+		"/home/serialhex/src/99_bottles/assembler.asm",
+		"/home/serialhex/src/cop2000/11-10-27/ternary_op.cpp",
+		"/home/serialhex/src/cop2000/11-10-27/beep.cpp",
+		"/home/serialhex/src/cop2000/11-10-27/round.cpp",
+		"/home/serialhex/src/cop2000/11-10-27/func_stuff.cpp",
+		"/home/serialhex/src/cop2000/11-10-27/notes.md",
+		"/home/serialhex/src/shogun/src/Makefile",
+		"/home/serialhex/src/shogun/src/configure",
+		"/home/serialhex/src/cop2000/11-10-06/flowchart.cpp",
+		"/home/serialhex/src/cop2000/11-10-06/test.cpp",
+		"/home/serialhex/src/global_quine.rb",
+		"/home/serialhex/src/cop2000/11-10-06/file.cpp",
+		"/home/serialhex/src/cop2000/11-10-06/notes.md",
+		"/home/serialhex/src/quinemas2010.rb",
+		"/home/serialhex/src/cop2000/11-10-06/quine.hs",
+		"/home/serialhex/src/eng1101/fall2011-1101-Web.rtf",
+		"/home/serialhex/src/cop2000/11-09-29/calendar.cpp",
+		"/home/serialhex/src/cop2000/assignment_2/a2.5.rb",
+		"/home/serialhex/src/cop2000/assignment_5/a5_work.txt",
+		"/home/serialhex/src/cop2000/assignment_5/a5_prob.md",
+		"/home/serialhex/src/cop2000/11-09-29/leading_decision.cpp",
+		"/home/serialhex/src/cop2000/11-09-29/files.cpp",
+		"/home/serialhex/src/cop2000/11-09-29/trailing_dec.cpp",
+		"/home/serialhex/src/cop2000/11-09-29/notes.md",
+		"/home/serialhex/src/cop2000/11-09-29/stuff.cpp",
+		"/home/serialhex/src/cop2000/assignment_4/a4.cpp",
+		"/home/serialhex/src/cop2000/11-09-22/notes.md",
+		"/home/serialhex/src/cop2000/11-09-22/leading _loop.cpp",
+		"/home/serialhex/src/cop2000/11-09-22/trailing_loop.cpp",
+		"/home/serialhex/src/cop2000/11-09-15/notes.md",
+		"/home/serialhex/src/cop2000/11-09-15/control.cpp",
+		"/home/serialhex/.config/sublime-text-2/Packages/User/Markdown.sublime-settings",
+		"/home/serialhex/src/cis1000/chapter_01/computer_literacy.md",
+		"/home/serialhex/src/cop2000/11-09-08/notes.md",
+		"/home/serialhex/src/cop2000/11-09-08/practice.cpp",
+		"/home/serialhex/src/cop2000/11-09-15/test.cpp",
+		"/home/serialhex/Documents/John/Program 4.cpp",
+		"/home/serialhex/Documents/John/ProgExamp.cpp",
+		"/home/serialhex/src/misc/Tau.hs",
+		"/home/serialhex/.rvm/gems/ruby-1.9.2-p290/gems/cairo-1.10.0/ext/cairo/rb_cairo.h",
+		"/home/serialhex/.rvm/vm",
+		"/home/serialhex/src/cop2000/assignment_2/m_to_ft.cpp",
+		"/home/serialhex/src/cop2000/11-09-01/practice.cpp",
+		"/home/serialhex/src/cop2000/assignment_1/assignment-1.md",
+		"/home/serialhex/src/cop2000/assignment_1/pseudocode.rb",
+		"/home/serialhex/src/misc/float_prec.rb",
+		"/home/serialhex/src/cop2000/assignment_1/style.css",
+		"/home/serialhex/src/cop2000/assignment_1/code.css",
+		"/home/serialhex/src/cop2000/assignment_1/variables_n_constants.md",
+		"/home/serialhex/src/cop2000/assignment_1/sample_softcopy.md",
+		"/home/serialhex/src/cop2000/assignment_1/problem_statement.md",
+		"/home/serialhex/src/cop2000/assignment_1/pseudocode.md",
+		"/home/serialhex/src/cop2000/assignment_1/tmp",
+		"/home/serialhex/src/cop2000/assignment_1/variable_lists.md",
+		"/home/serialhex/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/serialhex/.config/sublime-text-2/Packages/Default/Global.sublime-settings",
+		"/home/serialhex/.config/sublime-text-2/Packages/User/Global.sublime-settings",
+		"/home/serialhex/src/cop2000/11-09-01/notes.md",
+		"/home/serialhex/src/cop2000/README.md",
+		"/home/serialhex/src/cop2000/11-09-01/sales.cpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" = ",
+			"MyNode",
+			"c"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Node2",
+			"i"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "surreal.hs",
+					"settings":
+					{
+						"buffer_size": 1223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								787,
+								631
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "notes.md",
+					"settings":
+					{
+						"buffer_size": 1450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1229,
+								1229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true
+}
