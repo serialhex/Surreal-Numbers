@@ -6,4 +6,7 @@ Here is my _simple_ implementation of the surreal numbers.  Right now they don't
 
 [http://scientopia.org/blogs/goodmath/category/surreal-numbers/][]  
 
-[http://www.tondering.dk/claus/surreal.html][]
+[http://www.tondering.dk/claus/surreal.html][]  
+
+
+and a cheat sheet........  kind of: [http://hpaste.org/51055][]

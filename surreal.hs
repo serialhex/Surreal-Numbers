@@ -42,6 +42,10 @@ instance Eq Surreal where
 -- ¬∃yi∈YR: yi≤x. (x is never greater than any member in the right set of y.)
 instance Ord Surreal where  --this dosn;t work yet
   --compare :: Surreal -> Surreal -> Ordering
-  --compare x y = not (y <= (Set.findMin left x)) and not ((Set.findMax right y) <= x)
+  --compare x y = 
   
-  x <= y = (not (y <= (Set.findMin (left x)))) --and (not ((Set.findMax (right y)) <= x))
+  --(<=) :: Surreal -> Surreal -> Bool
+  Nil <= _    = True
+  x   <= Nil  = x == Nil
+  x   <= y    = Set.fold (\y ->) 
+  --x   <= y    = (not (y <= Set.findMin (left x))) && (not (Set.findMin (left y) <= x))

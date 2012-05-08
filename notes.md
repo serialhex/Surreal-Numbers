@@ -14,7 +14,9 @@ Two numeric forms x and y are forms of the same number (lie in the same equivale
 The recursive definition of surreal numbers is completed by defining comparison:
 Given numeric forms x = { XL | XR } and y = { YL | YR }, x ≤ y if and only if:
 
-* there is no  such that y ≤  (every element in the left part of x is smaller than y), and
-* there is no xL such that  ≤ x (every element in the right part of y is bigger than x).
+* there is no xl `elm` XL such that y ≤ xl (every element in the left part of x is smaller than y), and
+* there is no yr `elm` YR such that yr ≤ x (every element in the right part of y is bigger than x).
 
 A comparison y ≤ c between a form y and a surreal number c is performed by choosing a form z from the equivalence class c and evaluating y ≤ z; and likewise for c ≤ x and for comparison b ≤ c between two surreal numbers.
+
+

@@ -51,15 +51,24 @@
 			"file": "surreal.hs",
 			"settings":
 			{
-				"buffer_size": 1223,
+				"buffer_size": 1816,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "readme.md",
+			"settings":
+			{
+				"buffer_size": 495,
+				"line_ending": "Unix",
+				"name": "readme.md"
 			}
 		},
 		{
 			"file": "notes.md",
 			"settings":
 			{
-				"buffer_size": 1450,
+				"buffer_size": 1476,
 				"line_ending": "Unix"
 			}
 		}
@@ -226,21 +235,50 @@
 					"file": "surreal.hs",
 					"settings":
 					{
-						"buffer_size": 1223,
+						"buffer_size": 1816,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								787,
-								631
+								1726,
+								1726
 							]
 						],
 						"settings":
 						{
 							"auto_name": "",
-							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+							"syntax": "Packages/Haskell/Haskell.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 440.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "readme.md",
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"auto_name": "readme.md",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -249,19 +287,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "notes.md",
 					"settings":
 					{
-						"buffer_size": 1450,
+						"buffer_size": 1476,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1229,
-								1229
+								1091,
+								1091
 							]
 						],
 						"settings":
